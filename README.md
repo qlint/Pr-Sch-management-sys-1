@@ -1,4 +1,4 @@
-open-school
+OSch -> PS-M-S
 ===========
 
-The Open-School Pro Codebase.
+Pro
