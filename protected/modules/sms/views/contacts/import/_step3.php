@@ -1,0 +1,1 @@
+<?php echo '<span class="ok">'.Yii::t('app', 'Import completed.').' '.$inserted_rows.'('.$total_rows.') '.Yii::t('app', 'rows inserted').'</span>';?>

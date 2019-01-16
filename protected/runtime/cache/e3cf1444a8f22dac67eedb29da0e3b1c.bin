@@ -1,0 +1,12 @@
+a:2:{i:0;a:7:{s:8:"progress";i:100;s:6:"status";i:2;s:10:"start_time";s:19:"2018-04-23 14:44:16";s:12:"updated_time";s:19:"2018-04-23 14:44:16";s:11:"status_text";s:326:"HTTP/1.1 200 OK
+Date: Mon, 23 Apr 2018 09:14:16 GMT
+Server: Apache/2.4.9 (Win64) PHP/5.5.12
+X-Powered-By: PHP/5.5.12
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 3
+Connection: close
+Content-Type: text/html
+
+123";s:7:"request";s:15:"["site\/tests"]";s:8:"end_time";s:19:"2018-04-23 14:44:16";}i:1;N;}

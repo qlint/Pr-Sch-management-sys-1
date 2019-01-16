@@ -1,0 +1,1 @@
+<?php $this->renderPartial('application.modules.students.views.default.left_side'); ?>

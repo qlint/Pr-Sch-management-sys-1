@@ -1,0 +1,1697 @@
+2018/01/08 16:02:04 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:02:09 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:03:45 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:06:26 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:06:29 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:06:35 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:06:49 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:08:12 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:08:18 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:08:22 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:10:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:11:46 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:12:19 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:12:43 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:13:02 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:13:05 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:13:08 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:13:17 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:13:48 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:13:51 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:13:54 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:13:59 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:14:03 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/08 16:53:14 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('onlineexam/dash...')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/index.php?r=onlineexam/dashboard
+2018/01/08 16:53:20 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('onlineexam/exam...')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/index.php?r=onlineexam/exams
+2018/01/08 16:53:37 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('gradeSettings')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('CBSCExam/exam/g...')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/index.php?r=CBSCExam/exam/gradeSettings&id=2
+2018/01/08 17:13:49 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('attendance')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('studentportal/d...')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/index.php?r=studentportal/default/attendance
+2018/01/08 18:30:22 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 09:36:39 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 09:37:13 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 09:37:15 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 09:43:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 09:43:13 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:23:08 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:23:22 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:23:26 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:23:44 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:23:52 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:23:58 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:28:34 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:29:03 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:29:52 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:30:00 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:30:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:30:27 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:30:36 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:31:08 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:31:17 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:31:27 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:36:29 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:36:34 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:36:51 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:37:30 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:39:01 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:39:40 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:39:52 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:42:29 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:42:35 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:45:08 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:45:12 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:45:23 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:45:52 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:46:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:46:22 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:46:51 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:47:14 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:47:30 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:47:45 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:47:52 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:48:11 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:50:16 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:50:36 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:50:53 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:00 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:03 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:09 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:14 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:19 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:23 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:25 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:32 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:36 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:51:38 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:52:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:52:13 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:52:16 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:52:56 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:53:00 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:53:03 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:53:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:53:16 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:53:24 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:53:38 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:55:16 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:55:18 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:55:23 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:55:26 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:55:56 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:56:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:56:25 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/01/09 10:56:29 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php:62
+Stack trace:
+#0 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RightsFilter.php(57): RController->accessDenied()
+#1 C:\wamp\www\osmaster\open-school\core\web\filters\CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 C:\wamp\www\osmaster\open-school\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 C:\wamp\www\osmaster\open-school\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 C:\wamp\www\osmaster\open-school\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\osmaster\open-school\core\web\CController.php(283): CFilterChain->run()
+#6 C:\wamp\www\osmaster\open-school\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(277): CController->run('')
+#8 C:\wamp\www\osmaster\open-school\core\web\CWebApplication.php(136): CWebApplication->runController('')
+#9 C:\wamp\www\osmaster\open-school\core\base\CApplication.php(158): CWebApplication->processRequest()
+#10 C:\wamp\www\osmaster\open-school\index.php(51): CApplication->run()
+#11 {main} REQUEST_URI=/osmaster/open-school/fonts/fontawesome-webfont.woff2?v=4.7.0
+2018/02/15 10:58:11 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'os_25.fee_configurations' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `fee_configurations`.
+2018/02/15 10:58:11 [error] [exception.CDbException] exception 'CDbException' with message 'The table "fee_configurations" for active record class "FeeConfigurations" cannot be found in the database.' in C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php:2305
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php(372): CActiveRecordMetaData->__construct(Object(FeeConfigurations))
+#1 C:\wamp\www\CE_NEW\protected\models\FeeConfigurations.php(21): CActiveRecord::model('FeeConfiguratio...')
+#2 C:\wamp\www\CE_NEW\protected\modules\fees\views\default\left_side.php(1): FeeConfigurations::model()
+#3 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#4 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', NULL, true)
+#5 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', NULL, true)
+#6 C:\wamp\www\CE_NEW\protected\modules\fees\views\dashboard\index.php(9): CController->renderPartial('/default/left_s...')
+#7 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#8 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', Array, true)
+#9 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', Array, true)
+#10 C:\wamp\www\CE_NEW\core\web\CController.php(779): CController->renderPartial('index', Array, true)
+#11 C:\wamp\www\CE_NEW\protected\modules\fees\controllers\DashboardController.php(42): CController->render('index', Array)
+#12 C:\wamp\www\CE_NEW\core\web\actions\CInlineAction.php(50): DashboardController->actionIndex()
+#13 C:\wamp\www\CE_NEW\core\web\CController.php(300): CInlineAction->runWithParams(Array)
+#14 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 C:\wamp\www\CE_NEW\core\web\filters\CFilter.php(41): CFilterChain->run()
+#16 C:\wamp\www\CE_NEW\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#17 C:\wamp\www\CE_NEW\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#18 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\CE_NEW\core\web\CController.php(283): CFilterChain->run()
+#20 C:\wamp\www\CE_NEW\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(277): CController->run('')
+#22 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('fees')
+#23 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#24 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#25 {main} REQUEST_URI=/CE_NEW/index.php?r=fees
+2018/02/15 10:58:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'os_25.fee_configurations' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `fee_configurations`.
+2018/02/15 10:58:19 [error] [exception.CDbException] exception 'CDbException' with message 'The table "fee_configurations" for active record class "FeeConfigurations" cannot be found in the database.' in C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php:2305
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php(372): CActiveRecordMetaData->__construct(Object(FeeConfigurations))
+#1 C:\wamp\www\CE_NEW\protected\models\FeeConfigurations.php(21): CActiveRecord::model('FeeConfiguratio...')
+#2 C:\wamp\www\CE_NEW\protected\modules\fees\views\default\left_side.php(1): FeeConfigurations::model()
+#3 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#4 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', NULL, true)
+#5 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', NULL, true)
+#6 C:\wamp\www\CE_NEW\protected\modules\fees\views\dashboard\index.php(9): CController->renderPartial('/default/left_s...')
+#7 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#8 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', Array, true)
+#9 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', Array, true)
+#10 C:\wamp\www\CE_NEW\core\web\CController.php(779): CController->renderPartial('index', Array, true)
+#11 C:\wamp\www\CE_NEW\protected\modules\fees\controllers\DashboardController.php(42): CController->render('index', Array)
+#12 C:\wamp\www\CE_NEW\core\web\actions\CInlineAction.php(50): DashboardController->actionIndex()
+#13 C:\wamp\www\CE_NEW\core\web\CController.php(300): CInlineAction->runWithParams(Array)
+#14 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 C:\wamp\www\CE_NEW\core\web\filters\CFilter.php(41): CFilterChain->run()
+#16 C:\wamp\www\CE_NEW\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#17 C:\wamp\www\CE_NEW\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#18 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\CE_NEW\core\web\CController.php(283): CFilterChain->run()
+#20 C:\wamp\www\CE_NEW\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(277): CController->run('')
+#22 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('fees')
+#23 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#24 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#25 {main} REQUEST_URI=/CE_NEW/index.php?r=fees
+2018/02/15 10:58:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'os_25.fee_configurations' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `fee_configurations`.
+2018/02/15 10:58:23 [error] [exception.CDbException] exception 'CDbException' with message 'The table "fee_configurations" for active record class "FeeConfigurations" cannot be found in the database.' in C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php:2305
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php(372): CActiveRecordMetaData->__construct(Object(FeeConfigurations))
+#1 C:\wamp\www\CE_NEW\protected\models\FeeConfigurations.php(21): CActiveRecord::model('FeeConfiguratio...')
+#2 C:\wamp\www\CE_NEW\protected\modules\fees\views\default\left_side.php(1): FeeConfigurations::model()
+#3 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#4 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', NULL, true)
+#5 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', NULL, true)
+#6 C:\wamp\www\CE_NEW\protected\modules\fees\views\dashboard\index.php(9): CController->renderPartial('/default/left_s...')
+#7 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#8 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', Array, true)
+#9 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', Array, true)
+#10 C:\wamp\www\CE_NEW\core\web\CController.php(779): CController->renderPartial('index', Array, true)
+#11 C:\wamp\www\CE_NEW\protected\modules\fees\controllers\DashboardController.php(42): CController->render('index', Array)
+#12 C:\wamp\www\CE_NEW\core\web\actions\CInlineAction.php(50): DashboardController->actionIndex()
+#13 C:\wamp\www\CE_NEW\core\web\CController.php(300): CInlineAction->runWithParams(Array)
+#14 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 C:\wamp\www\CE_NEW\core\web\filters\CFilter.php(41): CFilterChain->run()
+#16 C:\wamp\www\CE_NEW\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#17 C:\wamp\www\CE_NEW\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#18 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\CE_NEW\core\web\CController.php(283): CFilterChain->run()
+#20 C:\wamp\www\CE_NEW\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(277): CController->run('')
+#22 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('fees')
+#23 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#24 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#25 {main} REQUEST_URI=/CE_NEW/index.php?r=fees
+2018/02/15 10:58:36 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'os_25.fee_configurations' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `fee_configurations`.
+2018/02/15 10:58:36 [error] [exception.CDbException] exception 'CDbException' with message 'The table "fee_configurations" for active record class "FeeConfigurations" cannot be found in the database.' in C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php:2305
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php(372): CActiveRecordMetaData->__construct(Object(FeeConfigurations))
+#1 C:\wamp\www\CE_NEW\protected\models\FeeConfigurations.php(21): CActiveRecord::model('FeeConfiguratio...')
+#2 C:\wamp\www\CE_NEW\protected\modules\fees\views\default\left_side.php(1): FeeConfigurations::model()
+#3 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#4 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', NULL, true)
+#5 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', NULL, true)
+#6 C:\wamp\www\CE_NEW\protected\modules\fees\views\dashboard\index.php(9): CController->renderPartial('/default/left_s...')
+#7 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#8 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', Array, true)
+#9 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', Array, true)
+#10 C:\wamp\www\CE_NEW\core\web\CController.php(779): CController->renderPartial('index', Array, true)
+#11 C:\wamp\www\CE_NEW\protected\modules\fees\controllers\DashboardController.php(42): CController->render('index', Array)
+#12 C:\wamp\www\CE_NEW\core\web\actions\CInlineAction.php(50): DashboardController->actionIndex()
+#13 C:\wamp\www\CE_NEW\core\web\CController.php(300): CInlineAction->runWithParams(Array)
+#14 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 C:\wamp\www\CE_NEW\core\web\filters\CFilter.php(41): CFilterChain->run()
+#16 C:\wamp\www\CE_NEW\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#17 C:\wamp\www\CE_NEW\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#18 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\CE_NEW\core\web\CController.php(283): CFilterChain->run()
+#20 C:\wamp\www\CE_NEW\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(277): CController->run('')
+#22 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('fees')
+#23 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#24 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#25 {main} REQUEST_URI=/CE_NEW/index.php?r=fees
+2018/02/15 10:59:16 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'os_25.fee_configurations' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `fee_configurations`.
+2018/02/15 10:59:16 [error] [exception.CDbException] exception 'CDbException' with message 'The table "fee_configurations" for active record class "FeeConfigurations" cannot be found in the database.' in C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php:2305
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php(372): CActiveRecordMetaData->__construct(Object(FeeConfigurations))
+#1 C:\wamp\www\CE_NEW\protected\models\FeeConfigurations.php(21): CActiveRecord::model('FeeConfiguratio...')
+#2 C:\wamp\www\CE_NEW\protected\modules\fees\views\default\left_side.php(1): FeeConfigurations::model()
+#3 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#4 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', NULL, true)
+#5 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', NULL, true)
+#6 C:\wamp\www\CE_NEW\protected\modules\fees\views\dashboard\index.php(9): CController->renderPartial('/default/left_s...')
+#7 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#8 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', Array, true)
+#9 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', Array, true)
+#10 C:\wamp\www\CE_NEW\core\web\CController.php(779): CController->renderPartial('index', Array, true)
+#11 C:\wamp\www\CE_NEW\protected\modules\fees\controllers\DashboardController.php(42): CController->render('index', Array)
+#12 C:\wamp\www\CE_NEW\core\web\actions\CInlineAction.php(50): DashboardController->actionIndex()
+#13 C:\wamp\www\CE_NEW\core\web\CController.php(300): CInlineAction->runWithParams(Array)
+#14 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 C:\wamp\www\CE_NEW\core\web\filters\CFilter.php(41): CFilterChain->run()
+#16 C:\wamp\www\CE_NEW\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#17 C:\wamp\www\CE_NEW\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#18 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\CE_NEW\core\web\CController.php(283): CFilterChain->run()
+#20 C:\wamp\www\CE_NEW\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(277): CController->run('')
+#22 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('fees')
+#23 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#24 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#25 {main} REQUEST_URI=/CE_NEW/index.php?r=fees
+2018/02/15 11:00:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'os_25.fee_configurations' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `fee_configurations`.
+2018/02/15 11:00:30 [error] [exception.CDbException] exception 'CDbException' with message 'The table "fee_configurations" for active record class "FeeConfigurations" cannot be found in the database.' in C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php:2305
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php(372): CActiveRecordMetaData->__construct(Object(FeeConfigurations))
+#1 C:\wamp\www\CE_NEW\protected\models\FeeConfigurations.php(21): CActiveRecord::model('FeeConfiguratio...')
+#2 C:\wamp\www\CE_NEW\protected\modules\fees\views\default\left_side.php(1): FeeConfigurations::model()
+#3 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#4 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', NULL, true)
+#5 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', NULL, true)
+#6 C:\wamp\www\CE_NEW\protected\modules\fees\views\dashboard\index.php(9): CController->renderPartial('/default/left_s...')
+#7 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#8 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', Array, true)
+#9 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', Array, true)
+#10 C:\wamp\www\CE_NEW\core\web\CController.php(779): CController->renderPartial('index', Array, true)
+#11 C:\wamp\www\CE_NEW\protected\modules\fees\controllers\DashboardController.php(42): CController->render('index', Array)
+#12 C:\wamp\www\CE_NEW\core\web\actions\CInlineAction.php(50): DashboardController->actionIndex()
+#13 C:\wamp\www\CE_NEW\core\web\CController.php(300): CInlineAction->runWithParams(Array)
+#14 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 C:\wamp\www\CE_NEW\core\web\filters\CFilter.php(41): CFilterChain->run()
+#16 C:\wamp\www\CE_NEW\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#17 C:\wamp\www\CE_NEW\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#18 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\CE_NEW\core\web\CController.php(283): CFilterChain->run()
+#20 C:\wamp\www\CE_NEW\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(277): CController->run('')
+#22 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('fees')
+#23 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#24 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#25 {main} REQUEST_URI=/CE_NEW/index.php?r=fees
+2018/02/15 11:00:33 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'os_25.fee_configurations' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `fee_configurations`.
+2018/02/15 11:00:33 [error] [exception.CDbException] exception 'CDbException' with message 'The table "fee_configurations" for active record class "FeeConfigurations" cannot be found in the database.' in C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php:2305
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\db\ar\CActiveRecord.php(372): CActiveRecordMetaData->__construct(Object(FeeConfigurations))
+#1 C:\wamp\www\CE_NEW\protected\models\FeeConfigurations.php(21): CActiveRecord::model('FeeConfiguratio...')
+#2 C:\wamp\www\CE_NEW\protected\modules\fees\views\default\left_side.php(1): FeeConfigurations::model()
+#3 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#4 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', NULL, true)
+#5 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', NULL, true)
+#6 C:\wamp\www\CE_NEW\protected\modules\fees\views\dashboard\index.php(9): CController->renderPartial('/default/left_s...')
+#7 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#8 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', Array, true)
+#9 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', Array, true)
+#10 C:\wamp\www\CE_NEW\core\web\CController.php(779): CController->renderPartial('index', Array, true)
+#11 C:\wamp\www\CE_NEW\protected\modules\fees\controllers\DashboardController.php(42): CController->render('index', Array)
+#12 C:\wamp\www\CE_NEW\core\web\actions\CInlineAction.php(50): DashboardController->actionIndex()
+#13 C:\wamp\www\CE_NEW\core\web\CController.php(300): CInlineAction->runWithParams(Array)
+#14 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 C:\wamp\www\CE_NEW\core\web\filters\CFilter.php(41): CFilterChain->run()
+#16 C:\wamp\www\CE_NEW\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#17 C:\wamp\www\CE_NEW\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#18 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\CE_NEW\core\web\CController.php(283): CFilterChain->run()
+#20 C:\wamp\www\CE_NEW\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(277): CController->run('')
+#22 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('fees')
+#23 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#24 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#25 {main} REQUEST_URI=/CE_NEW/index.php?r=fees
+2018/02/15 11:13:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "downloads".' in C:\wamp\www\CE_NEW\core\web\CWebApplication.php:281
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('downloads')
+#1 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#3 {main} REQUEST_URI=/CE_NEW/index.php?r=downloads
+2018/02/15 11:41:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "sendmails".' in C:\wamp\www\CE_NEW\core\web\CController.php:477
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\web\CController.php(262): CController->missingAction('sendmails')
+#1 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(277): CController->run('sendmails')
+#2 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('notifications/d...')
+#3 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#4 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#5 {main} REQUEST_URI=/CE_NEW/index.php?r=notifications/default/sendmails
+2018/02/15 11:43:15 [error] [exception.CException] exception 'CException' with message 'DefaultController cannot find the requested view "left_side".' in C:\wamp\www\CE_NEW\core\web\CController.php:875
+Stack trace:
+#0 C:\wamp\www\CE_NEW\protected\modules\report\views\default\index.php(186): CController->renderPartial('left_side')
+#1 C:\wamp\www\CE_NEW\core\web\CBaseController.php(119): require('C:\wamp\www\CE_...')
+#2 C:\wamp\www\CE_NEW\core\web\CBaseController.php(88): CBaseController->renderInternal('C:\wamp\www\CE_...', NULL, true)
+#3 C:\wamp\www\CE_NEW\core\web\CController.php(866): CBaseController->renderFile('C:\wamp\www\CE_...', NULL, true)
+#4 C:\wamp\www\CE_NEW\core\web\CController.php(779): CController->renderPartial('index', NULL, true)
+#5 C:\wamp\www\CE_NEW\protected\modules\report\controllers\DefaultController.php(8): CController->render('index')
+#6 C:\wamp\www\CE_NEW\core\web\actions\CInlineAction.php(50): DefaultController->actionIndex()
+#7 C:\wamp\www\CE_NEW\core\web\CController.php(300): CInlineAction->runWithParams(Array)
+#8 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 C:\wamp\www\CE_NEW\core\web\filters\CFilter.php(41): CFilterChain->run()
+#10 C:\wamp\www\CE_NEW\protected\modules\rights\components\RController.php(36): CFilter->filter(Object(CFilterChain))
+#11 C:\wamp\www\CE_NEW\core\web\filters\CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#12 C:\wamp\www\CE_NEW\core\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\wamp\www\CE_NEW\core\web\CController.php(283): CFilterChain->run()
+#14 C:\wamp\www\CE_NEW\core\web\CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(277): CController->run('')
+#16 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('report')
+#17 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#18 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#19 {main} REQUEST_URI=/CE_NEW/index.php?r=report
+2018/02/15 11:51:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "hr/staff/index".' in C:\wamp\www\CE_NEW\core\web\CWebApplication.php:281
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('hr/staff/index')
+#1 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#3 {main} REQUEST_URI=/CE_NEW/index.php?r=hr/staff/index
+2018/02/15 11:51:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "hr/staff/index".' in C:\wamp\www\CE_NEW\core\web\CWebApplication.php:281
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('hr/staff/index')
+#1 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#3 {main} REQUEST_URI=/CE_NEW/index.php?r=hr/staff/index
+2018/02/19 06:49:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fees/create".' in C:\wamp\www\CE_NEW\core\web\CWebApplication.php:281
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('fees/create')
+#1 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#3 {main} REQUEST_URI=/CE_NEW/index.php?r=fees/create
+2018/02/19 09:09:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "default".' in C:\wamp\www\CE_NEW\core\web\CWebApplication.php:281
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('default')
+#1 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#3 {main} REQUEST_URI=/CE_NEW/index.php?r=default
+2018/02/19 09:10:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "default".' in C:\wamp\www\CE_NEW\core\web\CWebApplication.php:281
+Stack trace:
+#0 C:\wamp\www\CE_NEW\core\web\CWebApplication.php(136): CWebApplication->runController('default')
+#1 C:\wamp\www\CE_NEW\core\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\wamp\www\CE_NEW\index.php(51): CApplication->run()
+#3 {main} REQUEST_URI=/CE_NEW/index.php?r=default

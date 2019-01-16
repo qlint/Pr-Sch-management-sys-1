@@ -1,0 +1,1 @@
+<?php $this->renderPartial('application.modules.notifications.views.default.left_side');?>

@@ -1,0 +1,1 @@
+<div class="mailbox-empty"><?php echo Yii::t('app','You have no messages in your '.$this->getAction()->getId().' folder.'); ?></div>
